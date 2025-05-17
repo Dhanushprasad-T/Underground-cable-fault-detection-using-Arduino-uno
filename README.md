@@ -70,15 +70,19 @@ Segment 3: 1.20 V
 /underground-cable-fault-detection
 ├── underground_cable_fault_detection.ino
 └── README.md
+
 📌 Notes
+
 Adjust the threshold value in the code according to your setup and voltage divider configuration.
 
 The concept can be extended using GSM/GPS modules for real-world underground fault reporting systems.
 
 🧑‍💻 Author
+
 Name: Dhanush prasad T
 
 GitHub: https://github.com/Dhanushprasad-T
 
 📄 License
+
 This project is licensed under the MIT License.
