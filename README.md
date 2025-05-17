@@ -52,11 +52,17 @@ Observe the voltage readings and fault messages in real time.
 
 📊 Sample Output
 markdown
+
 Underground Cable Fault Detection Initialized
+
 Voltage Readings (V):
+
 Segment 1: 4.95 V
+
 Segment 2: 4.92 V
+
 Segment 3: 1.20 V
+
 ⚠ Fault Detected at Segment 3
 -----------------------
 📁 Project Structure
