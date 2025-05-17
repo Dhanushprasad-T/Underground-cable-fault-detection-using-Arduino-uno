@@ -76,7 +76,7 @@ Adjust the threshold value in the code according to your setup and voltage divid
 The concept can be extended using GSM/GPS modules for real-world underground fault reporting systems.
 
 🧑‍💻 Author
-Your Name: Dhanush prasad T
+Name: Dhanush prasad T
 
 GitHub: https://github.com/Dhanushprasad-T
 
